@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-To get started with the React project, follow the instructions below:
+To get started with the web application, follow the instructions below:
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ Make sure you have the following installed on your machine:
 3. **Install the necessary packages:**
     npm i
 
-4. **Start the React app:**
+4. **Start the web app:**
     npm start
 
 5. **Open the app:**
