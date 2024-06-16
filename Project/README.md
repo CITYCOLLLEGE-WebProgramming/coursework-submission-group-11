@@ -27,4 +27,6 @@ Make sure you have the following installed on your machine:
 4. **Start the React app:**
     npm start
 
+5. **Open the app:**
+   Open your browers and type in this URL http://localhost:10000/
 
